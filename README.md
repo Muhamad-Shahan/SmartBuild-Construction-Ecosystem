@@ -79,5 +79,3 @@ This project was researched, designed, and presented by:
 
 ---
 *© 2024 SmartBuild. All Rights Reserved.*
-
-ts Reserved.*
